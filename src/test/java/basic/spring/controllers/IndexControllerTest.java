@@ -1,4 +1,4 @@
-package guru.springframework.controllers;
+package basic.spring.controllers;
 
 import org.junit.Before;
 import org.junit.Test;

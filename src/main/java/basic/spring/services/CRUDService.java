@@ -1,4 +1,4 @@
-package guru.springframework.services;
+package basic.spring.services;
 
 import java.util.List;
 

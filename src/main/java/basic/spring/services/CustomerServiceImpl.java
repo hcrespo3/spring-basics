@@ -1,8 +1,8 @@
-package guru.springframework.services;
+package basic.spring.services;
 
-import guru.springframework.domain.AbstractMapService;
-import guru.springframework.domain.Customer;
-import guru.springframework.domain.DomainObject;
+import basic.spring.domain.AbstractMapService;
+import basic.spring.domain.Customer;
+import basic.spring.domain.DomainObject;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
